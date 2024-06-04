@@ -1,0 +1,13 @@
+REMARK   DATE:     2/ 5/21     14:35: 7      CREATED BY USER: nathan                  
+ATOM      1  O1  DMSOD   1       0.000   2.121   0.081  1.00  0.00      DMSO
+ATOM      2  S2  DMSOD   1       0.000   0.804  -0.696  1.00  0.00      DMSO
+ATOM      3  C3  DMSOD   1       1.340  -0.200  -0.032  1.00  0.00      DMSO
+ATOM      4  H4  DMSOD   1       1.339  -1.214  -0.486  1.00  0.00      DMSO
+ATOM      5  H5  DMSOD   1       2.326   0.268  -0.242  1.00  0.00      DMSO
+ATOM      6  H6  DMSOD   1       1.245  -0.317   1.068  1.00  0.00      DMSO
+ATOM      7  C7  DMSOD   1      -1.340  -0.200  -0.032  1.00  0.00      DMSO
+ATOM      8  H8  DMSOD   1      -1.339  -1.214  -0.486  1.00  0.00      DMSO
+ATOM      9  H9  DMSOD   1      -1.245  -0.317   1.068  1.00  0.00      DMSO
+ATOM     10  H10 DMSOD   1      -2.326   0.268  -0.242  1.00  0.00      DMSO
+TER      11      DMSO     1
+END
